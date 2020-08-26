@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "E:\\\\项目\\\\资料\\\\项目有关\\\\nuxtDemo\\\\pages\\\\layout\\\\index.vue",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "E:\\\\项目\\\\资料\\\\项目有关\\\\nuxtDemo\\\\pages\\\\home",
+        "_name": "_3c006b49"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "E:\\\\项目\\\\资料\\\\项目有关\\\\nuxtDemo\\\\pages\\\\login",
+        "_name": "_4445463f"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "E:\\\\项目\\\\资料\\\\项目有关\\\\nuxtDemo\\\\pages\\\\login",
+        "_name": "_4445463f"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "E:\\\\项目\\\\资料\\\\项目有关\\\\nuxtDemo\\\\pages\\\\profile",
+        "_name": "_213382ff"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "E:\\\\项目\\\\资料\\\\项目有关\\\\nuxtDemo\\\\pages\\\\settings",
+        "_name": "_d30624e6"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "E:\\\\项目\\\\资料\\\\项目有关\\\\nuxtDemo\\\\pages\\\\editor",
+        "_name": "_37d7a557"
+      },
+      {
+        "path": "/article",
+        "name": "article",
+        "component": "E:\\\\项目\\\\资料\\\\项目有关\\\\nuxtDemo\\\\pages\\\\article",
+        "_name": "_07fdc64c"
+      }
+    ],
+    "_name": "_2031d954"
+  }
+]
